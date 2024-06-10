@@ -1,14 +1,28 @@
-.divImg{
-    width: 1920px;
-    height: 880px;
-    background-image: url(../../../public/movimiento-de-suelo-1.png);
-    background-size: cover;
+.divHome{
+    position: relative;
+    width: 100vw;
+    height: 800px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background:rgba(255, 255, 255, 0.449);
 }
 .logo{
-    height: 844px;
-    width: 858px;
+    position: absolute;
+    z-index: 3;
+}
+
+.imgFondo{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+
+.background-blanco{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background: rgba(255, 255, 255, 0.398);
 }
