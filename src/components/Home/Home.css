@@ -1,0 +1,14 @@
+.divImg{
+    width: 1920px;
+    height: 880px;
+    background-image: url(../../../public/movimiento-de-suelo-1.png);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:rgba(255, 255, 255, 0.449);
+}
+.logo{
+    height: 844px;
+    width: 858px;
+}

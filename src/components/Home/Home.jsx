@@ -1,9 +1,11 @@
-
+import "./Home.css"
 
 const Home = () => {
     return (
         <div>
-            <img src="" alt="" />
+            <div className="divImg">
+            <img src="../../../public/Diseño_sin_título-removebg-preview.png" alt="" className="logo" />
+            </div>
         </div>
     )
 }
