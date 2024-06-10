@@ -1,0 +1,25 @@
+.Divnab{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 1920px;
+    background-color:#2C3E50
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    background-attachment: fixed;
+    justify-content: center;
+}
+
+
+.nav-li{
+    margin-right: 30px;
+    font-size: 20px;
+    list-style: none;
+}
+
+.nav-li a {
+    color: #BBBBBB;
+    text-decoration: none;
+}
