@@ -5,16 +5,19 @@ const NavBar = () => {
         <div className="Divnab">
             <ul className="navbar">
             <li className="nav-li">
-            <a className="" href="">Inicio</a>
+            <a className="" href="">INICIO</a>
             </li>
             <li className="nav-li">
-            <a className="" href="#about">Sobre Mi</a>
+            <a className="" href="#about">QUIENES SOMOS?</a>
             </li>
             <li className="nav-li">
-            <a className="" href="#Proyecto">Proyecto</a>
+            <a className="" href="#about">QUE HACEMOS?</a>
             </li>
             <li className="nav-li">
-            <a className="" href="">Contacto</a>
+            <a className="" href="#Proyecto">MAQUINAS</a>
+            </li>
+            <li className="nav-li">
+            <a className="" href="">CONTACTO</a>
             </li>
             </ul>
 

@@ -2,7 +2,11 @@
     padding-top: 10px;
     padding-bottom: 10px;
     max-width: 1920px;
-    background-color:#2C3E50
+    background-color:#2C3E50;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .navbar{
@@ -15,7 +19,7 @@
 
 .nav-li{
     margin-right: 30px;
-    font-size: 20px;
+    font-size: 15px;
     list-style: none;
 }
 

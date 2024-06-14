@@ -1,0 +1,75 @@
+.titulo2{
+    font-size: 15px;
+    border-bottom: solid 2px#E67E22  ;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.seccion2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+    flex-direction: row-reverse;
+}
+
+
+.img{
+    display: flex;
+    padding-left: 20px;
+}
+
+.imgseccion2{
+    background-image: url(../../../public/camionRojo.jpg);
+    height: 590px;
+    width: 510px;
+    background-size: cover;
+    margin-left: 30px;
+}
+
+.imgseccion1{
+    background-image: url(../../../public/arena.jpg);
+    height: 590px;
+    width: 510px;
+    background-size: cover;
+}
+
+.container2{
+    padding-right: 60px;
+    padding-bottom: 90px;
+}
+.container2 h3{
+    font-size: 30px;
+    font-weight: initial;
+    padding-bottom: 40px;
+}
+
+
+.container2 h3 b {
+    color: #E67E22;
+}
+
+
+.container2 ul {
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 90px;
+}
+
+.proximamente{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid 2px #E67E22 ;
+    padding-bottom: 90px;
+}
+
+
+.proximamente h5{
+    font-size: 25px ;
+    padding-bottom: 20px;
+    color: #E67E22 ;
+}
