@@ -3,10 +3,10 @@ const QuienesSomos = () => {
     return (
         
         <div className="seccion">
-            <div className="titulo1">
+            <div className="titulo-1">
                 <h1>QUIENES SOMOS?</h1>
             </div>
-            <div className="seccion1">
+            <div className="seccion-1">
                 <div>
                     <div className="imgQuinesSomos"></div>
                 </div>

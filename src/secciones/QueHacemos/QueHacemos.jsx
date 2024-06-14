@@ -5,17 +5,17 @@ import "./QueHacemos.css"
 const QueHacemos = () => {
     return (
         <div className="seccion">
-            <div className="titulo2">
+            <div className="titulo-2">
                 <h1> QUE HACEMOS? </h1> 
             </div>
-                <div className="seccion2">
+                <div className="seccion-2">
                     <div className="img">
-                    <div className="imgseccion1">
+                    <div className="imgseccion-1">
                     </div>
-                    <div className="imgseccion2">
+                    <div className="imgseccion-2">
                     </div>
                     </div>
-                    <div className="container2" >
+                    <div className="container-2" >
                     <h3>Servicios de <b>Transporte </b>y<b> Retropala.</b>
                         </h3>
                     <ul>
