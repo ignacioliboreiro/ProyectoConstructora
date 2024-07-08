@@ -5,6 +5,7 @@ import Maquinas from './secciones/Maquinas/Maquinas'
 import NavBar from './secciones/NavBar/NavBar'
 import QueHacemos from './secciones/QueHacemos/QueHacemos'
 import QuienesSomos from './secciones/QuienesSomos/QuienesSomos'
+import 'swiper/css'
 
 function App() {
   return (
@@ -14,9 +15,7 @@ function App() {
       <div className='container1'>
       <QuienesSomos/>
       <QueHacemos/>
-      </div>
       <Maquinas/>
-      <div className='container1'>
         <Contacto/>
       </div>
     </>

@@ -25,7 +25,7 @@
     padding-top: 40px;
 }
 .imgQuinesSomos{
-    background-image: url("../../../public/palaatras.jpg");
+    background-image: url("/palaatras.jpg");
     height: 590px;
     width: 510px;
     background-size: cover;
