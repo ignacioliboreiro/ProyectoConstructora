@@ -9,7 +9,7 @@ const Contacto = () => {
             <div className="seccion-4">
                 <div>
                     <div className="telefono">
-                    <img src="../public/llamada-telefonica.png" alt="telefono" className="imgTelefono" />
+                    <img src="/llamada-telefonica.png" alt="telefono" className="imgTelefono" />
                     +54 291 5085410
                     </div>
                     <div className="inputs">
