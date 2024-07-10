@@ -8,7 +8,7 @@ const Contacto = () => {
             </div>
             <div className="seccion-4">
                 <div>
-                <form target="_blank" action="https://formsubmit.co/ignaliboreiroo@gmail.com" method="POST">
+                <form target="_blank" action="https://formsubmit.co/aridosconstructora@gmail.com" method="POST">
                     <div className="telefono">
                     <img src="/llamada-telefonica.png" alt="telefono" className="imgTelefono" />
                     +54 291 5085410
