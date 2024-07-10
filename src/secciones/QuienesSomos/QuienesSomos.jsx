@@ -4,7 +4,7 @@ const QuienesSomos = () => {
         
         <div className="seccion">
             <div className="titulo-1">
-                <h1>QUIENES SOMOS?</h1>
+                <h1 id="2">QUIENES SOMOS?</h1>
             </div>
             <div className="seccion-1">
                 <div>

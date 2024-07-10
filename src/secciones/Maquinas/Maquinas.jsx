@@ -6,7 +6,7 @@ const Maquinas = () => {
 
     return (
         <>
-        <h1 className="titulo-maquinas">Nuestras Maquinas</h1>
+        <h1 className="titulo-maquinas" id="4">Nuestras Maquinas</h1>
         <div className="imagenes">
             <img src="/CamionVerde.jpg" alt="CamionVerde" />
             <img src="/palaFrente.jpg" alt="palaFrente" />
